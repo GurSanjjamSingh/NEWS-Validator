@@ -1,9 +1,9 @@
 # NEWS-Validator
 A machine learning-based project to classify news articles as “Fake News” or “Not Fake News” using popular algorithms like <br>
 Logistic Regression, Decision Trees, Gradient Boosting, and Random Forest.<br>
- 	•	Preprocessing text data for feature extraction using TF-IDF Vectorizer.
- 	•	Classification using multiple machine learning models.
-	•	Predicting fake news with input from users.
+ 	•	Preprocessing text data for feature extraction using TF-IDF Vectorizer.<br>
+ 	•	Classification using multiple machine learning models.<br>
+	•	Predicting fake news with input from users.<br>
 	•	Supports Logistic Regression, Decision Trees, Gradient Boosting, and Random Forest for prediction.<br>
 
 
